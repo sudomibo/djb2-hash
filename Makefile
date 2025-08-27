@@ -1,3 +1,4 @@
+SHELL=/usr/bin/bash
 AS=nasm
 LD=ld
 LN=ln -s
